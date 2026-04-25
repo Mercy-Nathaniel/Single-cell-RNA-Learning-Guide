@@ -58,3 +58,54 @@ No prior experience with single-cell analysis is assumed.
 ---
 
 ## Repository structure
+
+Each folder focuses on **one learning stage**.
+Each file covers **one idea only**.
+
+---
+
+## How to use this repository
+
+- Start with the **introduction** section if you are new
+- Follow the workflow documents step by step
+- Read explanations before running code
+- Treat this as a living notebook — update it as you learn
+
+No file here is meant to be skipped or rushed.
+
+---
+
+## Data used
+
+Example workflows mainly use **publicly available datasets**
+(e.g. PBMC datasets commonly used in Scanpy and Seurat tutorials).
+
+These datasets are used for learning purposes only.
+
+---
+
+## Disclaimer
+
+These notes simplify some concepts for learning clarity.
+They are not intended to replace:
+- Official documentation
+- Peer‑reviewed publications
+- Expert review for production analysis
+
+Always validate results biologically and statistically.
+
+---
+
+## References and learning resources
+
+- Scanpy documentation: https://scanpy.readthedocs.io/
+- AnnData documentation: https://anndata.readthedocs.io/
+- Seurat documentation: https://satijalab.org/seurat/
+- Luecken & Theis (2019): Best practices in single‑cell RNA‑seq analysis
+
+---
+
+## Status
+
+This is an active learning project.
+Content will change and improve as understanding grows.
