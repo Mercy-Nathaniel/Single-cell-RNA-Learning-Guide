@@ -1,10 +1,10 @@
 # Single-cell RNA-seq Learning Notes
 
-This repository is a beginner-friendly learning guide for **single-cell RNA sequencing (scRNA‑seq) analysis**.
-It is primarily focused on **learning and understanding**, not just running code.
+This repository is a beginner-friendly learning guide for single-cell RNA sequencing (scRNA‑seq) analysis.
+It is primarily focused on learning and understanding, not just running code.
 
 The main goal is to make scRNA‑seq concepts, workflows, and tools easier to understand for beginners,
-especially those coming from a **Python background**.
+especially those coming from a Python background.
 
 ---
 
@@ -17,12 +17,12 @@ When starting scRNA‑seq analysis, it is easy to feel overwhelmed by:
 - Assumed background knowledge
 
 This repository exists to:
-- Break scRNA‑seq analysis into **simple, understandable steps**
-- Explain **why** each step is done, not just how
+- Break scRNA‑seq analysis into simple, understandable steps
+- Explain why each step is done, not just how
 - Document what confused me while learning, so others don’t struggle the same way
-- Provide **clean, reproducible workflows** using common tools
+- Provide clean, reproducible workflows using common tools
 
-These notes are written from a **learner’s perspective**, not an expert’s perspective.
+These notes are written from a learner’s perspective, not an expert’s perspective.
 
 ---
 
@@ -40,7 +40,7 @@ This project focuses on the two most common single-cell analysis tools:
 - Helpful for understanding scRNA‑seq concepts
 - Provides intuitive and beginner-friendly visualizations
 
-The goal is **not** to choose one tool forever, but to understand the **shared concepts**
+The goal is not to choose one tool forever, but to understand the shared concepts
 behind both.
 
 ---
@@ -59,14 +59,14 @@ No prior experience with single-cell analysis is assumed.
 
 ## Repository structure
 
-Each folder focuses on **one learning stage**.
-Each file covers **one idea only**.
+Each folder focuses on one learning stage.
+Each file covers one idea only.
 
 ---
 
 ## How to use this repository
 
-- Start with the **introduction** section if you are new
+- Start with the introduction section if you are new
 - Follow the workflow documents step by step
 - Read explanations before running code
 - Treat this as a living notebook — update it as you learn
@@ -77,7 +77,7 @@ No file here is meant to be skipped or rushed.
 
 ## Data used
 
-Example workflows mainly use **publicly available datasets**
+Example workflows mainly use publicly available datasets
 (e.g. PBMC datasets commonly used in Scanpy and Seurat tutorials).
 
 These datasets are used for learning purposes only.
