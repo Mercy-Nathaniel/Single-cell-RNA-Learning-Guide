@@ -1,25 +1,31 @@
-# Scanpy and dependencies
-scanpy==1.9.8
-anndata==0.10.1
-numpy==1.24.3
-pandas==2.0.3
-scipy==1.11.2
-scikit-learn==1.3.1
-matplotlib==3.7.2
-seaborn==0.12.2
+# Single-cell RNA-seq Learning Environment
+# Install with: pip install -r requirements.txt
+
+# Core single-cell tools
+scanpy==1.10.1
+anndata==0.10.7
 
 # Data handling
-h5py==3.9.0
-zarr==2.16.0
+pandas==2.2.0
+numpy==1.24.3
+scipy==1.12.0
 
-# Jupyter
-jupyter==1.0.0
-jupyterlab==4.0.5
-ipython==8.15.0
+# Machine learning
+scikit-learn==1.4.1
+umap-learn==0.5.5
 
 # Visualization
-plotly==5.17.0
-kaleido==0.2.1
+matplotlib==3.8.3
+seaborn==0.13.1
 
-# Utilities
-tqdm==4.66.1
+# Notebooks
+jupyter==1.0.0
+ipython==8.20.0
+ipywidgets==8.1.2
+
+# Additional tools
+pytest==7.4.3
+black==24.1.1
+
+# Optional: For Seurat comparison
+# rpy2==3.18.0  # Uncomment to call R from Python
