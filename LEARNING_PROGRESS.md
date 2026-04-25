@@ -1,6 +1,6 @@
 # Learning Progress Tracker
 
-Track your learning journey through scRNA-seq analysis. Update this as you complete concepts and exercises.
+Track my learning journey through scRNA-seq analysis. I'll update this as I complete concepts and exercises.
 
 **Timeline: April 25 - May 31, 2026 (5 weeks)**
 
@@ -15,7 +15,7 @@ Track your learning journey through scRNA-seq analysis. Update this as you compl
 - [ ] Why normalization matters
 - [ ] Difference between Scanpy and Seurat workflows
 
-### Practical Milestones
+### Little Bets
 - [ ] Set up environment (conda, packages installed)
 - [ ] Load first scRNA-seq dataset (PBMC 3K or similar)
 - [ ] Explore AnnData structure
@@ -38,7 +38,7 @@ Track your learning journey through scRNA-seq analysis. Update this as you compl
 - [ ] Batch effect detection
 - [ ] Gene selection and HVGs (highly variable genes)
 
-### Practical Milestones
+### Little Bets
 - [ ] Implement QC filtering pipeline
 - [ ] Compare normalized vs unnormalized distributions
 - [ ] Select HVGs and understand why
@@ -61,7 +61,7 @@ Track your learning journey through scRNA-seq analysis. Update this as you compl
 - [ ] K-means clustering (basic concept)
 - [ ] Leiden/Louvain clustering algorithms
 
-### Practical Milestones
+### Little Bets
 - [ ] Run PCA on your dataset
 - [ ] Generate UMAP and t-SNE plots
 - [ ] Compare results and understand differences
@@ -86,7 +86,7 @@ Track your learning journey through scRNA-seq analysis. Update this as you compl
 - [ ] Gene set enrichment analysis (GSEA)
 - [ ] Comparing with reference datasets
 
-### Practical Milestones
+### Little Bets
 - [ ] Find marker genes for each cluster
 - [ ] Visualize top markers
 - [ ] Annotate clusters manually using markers
@@ -110,7 +110,7 @@ Track your learning journey through scRNA-seq analysis. Update this as you compl
 - [ ] Key differences: Scanpy vs Seurat implementation
 - [ ] Spatial transcriptomics concepts (bridge to your visual cortex work)
 
-### Practical Milestones
+### Little Bets
 - [ ] Implement same workflow in Seurat (conceptually)
 - [ ] Document key differences between tools
 - [ ] Explore one advanced topic (trajectory or RNA velocity)
@@ -128,7 +128,7 @@ Track your learning journey through scRNA-seq analysis. Update this as you compl
 
 ## Confusing Topics & Solutions
 
-Track things that confused you for reference:
+Tracking things that confused me for reference:
 
 | Topic | What Confused Me | Solution/Clarification |
 |-------|-----------------|----------------------|
